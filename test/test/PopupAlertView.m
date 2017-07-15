@@ -58,7 +58,8 @@
     self.noButton.layer.cornerRadius = 10;
     self.noButton.layer.borderWidth = 1.0f;
     self.noButton.layer.borderColor = [UIColor grayColor].CGColor;
-    
+    self.popupView.layer.cornerRadius = 30;
+    self.popupView.layer.masksToBounds = true;
     
     
 }

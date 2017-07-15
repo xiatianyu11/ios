@@ -21,6 +21,7 @@
 @property (weak, nonatomic) IBOutlet UILabel *contentLabel;
 @property (weak, nonatomic) IBOutlet UIButton *yesButton;
 @property (weak, nonatomic) IBOutlet UIButton *noButton;
+@property (weak, nonatomic) IBOutlet UIView *popupView;
 
 - (instancetype)initWithFrame:(CGRect)frame title:(NSString *)title message:(NSAttributedString *)message;
 

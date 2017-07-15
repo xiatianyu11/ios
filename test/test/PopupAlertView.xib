@@ -14,6 +14,7 @@
                 <outlet property="contentLabel" destination="gEW-8Y-SXM" id="0nJ-dV-DJG"/>
                 <outlet property="contentView" destination="iN0-l3-epB" id="0av-Bv-7ph"/>
                 <outlet property="noButton" destination="cCs-HK-loH" id="MDd-Cv-26t"/>
+                <outlet property="popupView" destination="u4l-tK-CFH" id="ria-hn-H4w"/>
                 <outlet property="titleLabel" destination="iRD-vJ-5A2" id="maX-3e-TYG"/>
                 <outlet property="yesButton" destination="B6t-xH-z8V" id="sfN-Lr-sZr"/>
             </connections>
